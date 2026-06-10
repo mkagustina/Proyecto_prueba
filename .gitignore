@@ -6,4 +6,4 @@ __pycache__/
 # Environments
 .venv
 
-/datos/Titanic-Dataset.csv
+datos/Titanic-Dataset.csv
